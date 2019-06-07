@@ -1,0 +1,11 @@
+
+body{
+    margin-top: 1.5em;
+}
+
+#main{
+
+    max-width: 676px;
+    margin: auto auto;
+    padding: 10px;
+}

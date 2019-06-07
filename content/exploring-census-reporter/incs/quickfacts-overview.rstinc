@@ -1,0 +1,32 @@
+**************************************************
+Appreciating Census Reporter's Data Visualizations
+**************************************************
+
+
+
+
+
+*****************************************
+How Census.gov QuickFacts shows the facts
+*****************************************
+
+
+
+.. slide::
+   :level: 1
+
+    For `Chicago city, Illinois <https://www.census.gov/quickfacts/fact/table/chicagocityillinois,US/PST045218>`_
+
+
+    .. figure:: images/quickfacts-chicago-fullpage.png
+        :alt: quickfacts-chicago-fullpage.png
+        :class: fill
+
+
+
+Top section: Population estimates
+=================================
+
+.. figure:: images/quickfacts-section-population-estimates.png
+    :alt: quickfacts-section-population-estimates.png
+

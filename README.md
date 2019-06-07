@@ -12,3 +12,6 @@ Notes: https://dannguyen.github.io/poynter-census-data-2019/html
 
 Slides: https://dannguyen.github.io/poynter-census-data-2019/slides
 
+
+
+- [Getting Acquainted with Census Data Through the Census Reporter](https://dannguyen.github.io/poynter-census-data-2019/html/exploring-census-reporter/)
