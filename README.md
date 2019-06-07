@@ -76,7 +76,15 @@ The spreadsheet at [http://bit.ly/blueredhello](http://bit.ly/blueredhello) cont
 - Census: the state-level 2017 ACS-1-year DP03 (selected economic characteristics) data: http://bit.ly/2017econstates
 - Elections: Data [courtesy of Dave Leip's Atlas](https://docs.google.com/spreadsheets/d/1VWo5ZuNIFZ726I5bfmDJwBlGEjd43qR3nuCDKY9-_vE/edit#gid=1312827112) / http://bit.ly/leip2016copy
 
-Try to make some charts from it using Google Sheets. An example workbook can be found here: https://docs.google.com/spreadsheets/d/13YknXg46P6NVA-1dRFYVAbFQQxmEdG0YSiDmU2uKgxE/edit#gid=1536535436
+### Brief chart basics
+
+Try to make some charts from [http://bit.ly/blueredhello](http://bit.ly/blueredhello) using Google Sheets. An example workbook can be found here: https://docs.google.com/spreadsheets/d/13YknXg46P6NVA-1dRFYVAbFQQxmEdG0YSiDmU2uKgxE/edit#gid=1536535436
+
+> The more you understand how to "manually" (e.g. [with LEGOS](https://ajr.org/2015/02/02/journalism-professors-used-legos-teach-super-bowl-data-visualization/)), the sooner you'll grok the patterns and best practices in data visualization...
+
+<img src="docs/homeassets/images/2016-r-v-d-bars.png" alt="2016-r-v-d-bars.png">
+
+
 
 ## Charts in datawrapper
 
@@ -85,7 +93,7 @@ Data visualization tools all have varying features, but they have the same princ
 
 Try to make: [Poverty bar chart colored by state presidential vote](https://river.datawrapper.de/_/ohOGU)
 
-Point datawrapper to Google Sheet found at: http://bit.ly/blueredhello
+Import the data from [http://bit.ly/blueredhello](http://bit.ly/blueredhello) into DataWrapper
 
 
 ## Choropleth map basics
