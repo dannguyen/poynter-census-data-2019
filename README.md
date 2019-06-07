@@ -32,17 +32,19 @@ Take notice at:
 - Compare what the Census data says to what you assume about these places
 
 
+-------------------------
+
 ### Spreadsheet warmup with our collected data
 
 > Note: the best thing you can do to understand data is to get [familiar with spreadsheets](https://multimedia.journalism.berkeley.edu/tutorials/spreadsheets/) and use them as often as possible (more than daily!). That's the most important skill, but we won't have time to get through it in this workshop.
 
-The class data from the Google Form should be copied here:
+The class data from the Google Form should be here to use:
 
 http://bit.ly/warmzipcode
 
 Do these things:
 
-- Make a copy of the sheet
+- Make a copy of the spreadsheet for yourself (so you can edit it)
 - Make a column that shows the percentage-point difference between the "White %" values of people's "work area" and their "origin zip code"
 - Make a column that shows the ratio of origin-zip-code median household income to work-area-median-household-income
 - Try to make a visualization from these derived columns
