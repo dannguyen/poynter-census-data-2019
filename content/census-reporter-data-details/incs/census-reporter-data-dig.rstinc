@@ -1,3 +1,6 @@
+
+
+
 When CensusReporter shows the data (Table B01001)
 =================================================
 
@@ -17,7 +20,7 @@ Clicking "Show data" under the **Population by age range** graphic:
 View Table B01001 on CensusReporter
 -----------------------------------
 
-`Clicking "View table" _https://censusreporter.org/data/table/?table=B01001&primary_geo_id=16000US1714000&geo_ids=16000US1714000,05000US17031,31000US16980,04000US17,01000US`_
+`Clicking View table <https://censusreporter.org/data/table/?table=B01001&primary_geo_id=16000US1714000&geo_ids=16000US1714000,05000US17031,31000US16980,04000US17,01000US>`_
 
 
 .. figure:: images/censusreporter-chicago-view-table-sex-by-age-b01001.png

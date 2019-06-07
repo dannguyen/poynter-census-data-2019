@@ -8,6 +8,9 @@ This repo contains slides and notes for the "Hands-on Data Training" session for
 To get to this page via short URL, use: [bit.ly/cdata2019](https://bit.ly/cdata2019)
 
 
+
+
+
 ## Starters
 
 - Should probably sign up for a Google Account (to use Google Sheets) if you don't have one by now
@@ -95,6 +98,13 @@ Let's make:
 - a [U.S. map of the states shaded by poverty rate or median household income](https://datawrapper.dwcdn.net/W5vyS/1/)
 
 
+## Story time
+
+A few examples of Census data used in news reporting:
+
+https://dannguyen.github.io/poynter-census-data-2019/html/content/story-census-ideas/index.html#even-more-localized-crime-analysis
+
+
 
 ## BREAK --------------------------------
 
@@ -113,6 +123,15 @@ Let's make:
 
 
 
+### Optional: How to upload custom mapfiles to Datawrapper
+
+This is getting into advanced territory, but it may be worthwhile to get it in your head how shapefiles exist for every Census geographic region, and that there exist tools to make it work for you.
+
+
+- Get tract-level Chicago data as GeoJSON: https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Census-Tracts-2010/5jrd-6zik
+- Follow [Datawrapper's guide to simplifying the GeoJSON](https://academy.datawrapper.de/article/145-how-to-upload-your-own-map) using [mapshaper.org](https://mapshaper.org/)
+- Or download my [copy of it](https://drive.google.com/open?id=1pbtWTp8f_s_RMBTJdCDd8dArBs_WRjpC)
+- [Download ACS5-2017 tract level race and ethnicity data](https://docs.google.com/spreadsheets/d/1OlgpKRNztpPK-Ln6wxRUtV_BW6AfcKnWWq3n1rzU20g/edit#gid=0)
 
 ## How to fetch data from FactFinder and data.census.gov
 
