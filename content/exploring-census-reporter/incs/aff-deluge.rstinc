@@ -1,0 +1,32 @@
+
+The deluge of American FactFinder data
+======================================
+
+.. ifnotslides::
+
+    First, let's look at what the not-quite-raw Census data looks like, for Chicago...
+
+    The `Census American FactFinder <https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml>`_ site has traditionally been the clearinghouse for detailed and interesting tabular Census data.
+
+The most prominent data point from the Census FactFinder is Census 2010 population:
+
+.. figure:: images/aff-facts-chicago-pop.png
+    :alt: aff-facts-chicago-pop.png
+
+
+AFF 2010 Demographic Profile Data
+---------------------------------
+
+The first link titled "2010 Demographic Profile" goes to this table, with roughly ~200 rows:
+
+.. figure:: images/aff-facts-chicag-2010-profile-first-link.png
+    :alt: aff-facts-chicag-2010-profile-first-link.png
+
+
+.. ifnotslides::
+
+    Look at the facets:
+
+    - Population by age bracket (between x and y)
+    - By another age bracket (x years and over)
+    - Then by males, females

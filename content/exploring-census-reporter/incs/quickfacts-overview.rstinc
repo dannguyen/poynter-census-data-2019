@@ -1,32 +1,206 @@
-**************************************************
-Appreciating Census Reporter's Data Visualizations
-**************************************************
-
-
-
-
-
 *****************************************
-How Census.gov QuickFacts shows the facts
+Just the facts from Census.gov quickfacts
 *****************************************
 
 
+.. ifnotslides::
 
-.. slide::
-   :level: 1
-
-    For `Chicago city, Illinois <https://www.census.gov/quickfacts/fact/table/chicagocityillinois,US/PST045218>`_
-
-
-    .. figure:: images/quickfacts-chicago-fullpage.png
-        :alt: quickfacts-chicago-fullpage.png
-        :class: fill
+    Even before getting into how Census Reporter and data.census.gov present data for Chicago, let's take a look at what comes up first on Google search for "chicago census data"
 
 
 
-Top section: Population estimates
-=================================
+
+Chicago city, IL
+================
+
+
+
+.. figure:: images/quickfacts-chicago-fullpage.png
+    :alt: quickfacts-chicago-fullpage.png
+
+`Quick facts entry for Chicago city, Illinois <https://www.census.gov/quickfacts/chicagocityillinois>`_
+
+
+
+Population estimates
+====================
 
 .. figure:: images/quickfacts-section-population-estimates.png
     :alt: quickfacts-section-population-estimates.png
+
+
+.. ifslides::
+
+    Start off with what the Census is known for: a population count, and for doing it every decade.
+
+
+.. ifnotslides::
+
+    - Optional ability to compare current locale and something else, like U.S. as a whole
+    - Top stat is the latest population estimate
+    - Then the "estimates base"
+    - The percent change since 2010
+    - The population as measured in 2010
+
+    Most prominent facet is what the Census is popularly known for: a population count. The other item worth noting is the percent change since 2010.
+
+
+
+Demographics
+============
+
+.. figure:: images/quickfacts-section-demographics.png
+    :alt: quickfacts-section-demographics.png
+
+
+.. ifslides::
+
+    Children first, then elderly, then the females.
+
+    White, black, everything else alphabetized. Then ehtnicity
+
+
+.. ifnotslides::
+
+    - Children first
+    - Then the elderly
+    - Then the females
+    - Then race:
+        + White
+        + Black
+        + (other categories in alphabetical order)
+        + Ethnicity (e.g. Hispanic or Latino)
+        + White without Hispanic/Latino ethnicity
+
+
+
+Population Characteristics and Housing
+======================================
+
+.. figure:: images/quickfacts-section-characteristics-housing.png
+    :alt: quickfacts-section-characteristics-housing.png
+
+
+
+- Veterans (as an absolute), then the foreign-born
+- Housing units, occupancy, value, and rent
+
+
+
+Why the X for estimates of housing units and building permits?
+--------------------------------------------------------------
+
+
+.. ifnotslides::
+
+    Clicking on the the info icon for "Housing units", we get a sense of the dense methodology and details behind each estimate and metric.
+
+
+We see that some data points aren't counted/updated for every geography level
+
+.. figure:: images/quickfacts-info-housing-units.png
+    :alt: quickfacts-info-housing-units.png
+
+
+
+Families, Living Arrangements, Computer/Internet Use
+====================================================
+
+.. figure:: images/quickfacts-section-living.png
+    :alt: quickfacts-section-living.png
+
+
+Education, Health, Economy
+==========================
+
+.. figure:: images/quickfacts-section-education-health-economy.png
+    :alt: quickfacts-section-education-health-economy.png
+
+
+
+.. ifnotslides::
+
+    - Health insurance information is especially topical today; see 2018 Census article: `Who Are the Uninsured? <https://www.census.gov/library/stories/2018/09/who-are-the-uninsured.html>`_
+    - Interesting amount of detail for economy, including breakdown of "food services sales" and retail sales per capita (2012)
+
+
+
+Why the caution icon for "Persons without health insurance" metric
+------------------------------------------------------------------
+
+Data sources and methodology differ between geographies.
+
+
+.. figure:: images/quickfacts-caveat-methodologies-diff.png
+    :alt: quickfacts-caveat-methodologies-diff.png
+
+
+Check the details for resources and info recommended by the Census
+------------------------------------------------------------------
+
+.. figure:: images/quickfacts-details-health-insurance-sources.png
+    :alt: quickfacts-details-health-insurance-sources.png
+
+
+
+.. ifnotslides::
+
+    The info link points to other resources, e.g. "the following links are very useful for an overview of heath insurance"
+
+    - `Health Insurance Index <https://www.census.gov/topics/health/health-insurance/data/tables.html>`_
+    - `Health Insurance Definitions <https://www.census.gov/topics/health/health-insurance/about/glossary.html>`_
+
+
+
+Transportation, Income, Poverty, Businesses
+===========================================
+
+.. figure:: images/quickfacts-section-income-poverty-biz.png
+    :alt: quickfacts-section-income-poverty-biz.png
+
+
+The end notes
+=============
+
+Geographic stats at the very bottom
+
+.. figure:: images/quickfacts-bottom-geo-notes.png
+    :alt: quickfacts-bottom-geo-notes.png
+
+
+
+Varying quality/timeliness of data
+----------------------------------
+
+"About datasets used in this table" goes  `to the "Data release dates" listing <https://www.census.gov/quickfacts/fact/faq/US/PST045218#1>`_ :
+
+.. figure:: images/quickfacts-data-release-listing.png
+    :alt: quickfacts-data-release-listing.png
+
+
+
+.. ifnotslides::
+
+    The "about datasets" listing should hint at the disparity in data granularity and coverage period, and frequency of updates.
+
+    - Population estimates for 2018 was updated in May 2019.
+    - Poverty, at the county level, was updated on December 2016.
+    - Employment, payroll, health insurance data is for 2015
+
+
+
+QuickFacts limitations
+======================
+
+The most obvious limitation is that QuickFacts only provides data profiles only at the national, state, county, or city level.
+
+
+.. figure:: images/quickfacts-header-limits.png
+    :alt: quickfacts-header-limits.png
+
+
+.. ifnotslides::
+
+    So it's worth noting which data points aren't shown in other data sources, when done at a more granular level, like a Census tract....
+
 

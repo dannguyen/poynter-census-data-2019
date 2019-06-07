@@ -1,0 +1,101 @@
+***********************************
+Chicago Census data, used elsewhere
+***********************************
+
+Many sites without "Census" in their name use Census data to build out content and stories.
+
+
+city-data.com page for Chicago
+==============================
+
+`city-data.com <http://www.city-data.com/city/Chicago-Illinois.html>`_ is often thought of as a primary source for city population/demographic data (especially among students)
+
+
+
+Wikipedia page for Chicago demographics
+=======================================
+
+`Demographics of Chicago <https://en.wikipedia.org/wiki/Demographics_of_Chicago>`_ is one example of a subpage created on Wikipedia.
+
+.. figure:: images/wikipedia-chicago-demos.png
+    :alt: wikipedia-chicago-demos.png
+
+
+.. ifnotslides::
+
+    Notice that most recent data is from the 2000 Census. Various subsections have their own pages. Some of this data is auto-filled. But it may not exist for smaller cities, like Naperville, Ill.
+
+
+Wikipedia entry for the smaller Naperville
+------------------------------------------
+
+Naperville's `demographics <https://en.wikipedia.org/wiki/Naperville,_Illinois#Demographics>`_ is just a section on its main Wikipedia entry.
+
+
+.. figure:: images/wikipedia-naperville-demos.png
+    :alt: wikipedia-naperville-demos.png
+
+
+
+datausa.io profile for Chicago
+==============================
+
+`https://datausa.io/profile/geo/chicago-il/ <https://datausa.io/profile/geo/chicago-il/>`_
+
+
+.. figure:: images/datausa.io-profile-chicago-top.png
+    :alt: datausa.io-profile-chicago-top.png
+
+
+
+datausa.io Chicago profile (Economy)
+------------------------------------
+
+The first sub-section is `Economy <https://datausa.io/profile/geo/chicago-il/#economy>`_
+
+
+.. figure:: images/datausa.io-profile-chicago-economy.png
+    :alt: datausa.io-profile-chicago-economy.png
+
+
+datausa.io Chicago profile (Diversity)
+--------------------------------------
+
+`Diversity <https://datausa.io/profile/geo/chicago-il/#demographics>`_  is the third section.
+
+.. ifnotslides::
+
+    Diversity subsection order is:
+
+    - Age
+    - Heritage
+
+        + Foreign-born
+        + Global diversity
+        + Citizenship
+        + Race and Ethnicity
+        + Non-English Speakers
+
+
+
+.. figure:: images/datausa.io-profile-chicago-diversity-top.png
+    :alt: datausa.io-profile-chicago-diversity-top.png
+
+datausa.io Chicago profile (Race/Ethnicity)
+-------------------------------------------
+
+Race/Ethnicity is the fourth sub-sub-section of the Heritage sub-section:
+
+.. figure:: images/datausa.io-profile-chicago-diversity-race-ethnicity.png
+    :alt: datausa.io-profile-chicago-diversity-race-ethnicity.png
+
+
+Sorting race/ethnicity categories dynamically
+---------------------------------------------
+
+For `Palo Alto, CA <https://datausa.io/profile/geo/palo-alto-ca/#demographics>`_  "Asian Alone" is the second category because of it's the second largest category.
+
+
+.. figure:: images/datausa.io-profile-palo-alto-asians.png
+    :alt: datausa.io-profile-palo-alto-asians.png
+

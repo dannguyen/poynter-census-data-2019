@@ -1,0 +1,121 @@
+
+Census Reporter profile of Chicago, IL
+======================================
+
+
+`https://censusreporter.org/profiles/16000US1714000-chicago-il/ <https://censusreporter.org/profiles/16000US1714000-chicago-il/>`_
+
+
+.. ifnotslides::
+
+    - Top-line is population count
+    - Backdrop is attractive map that also shows exactly what "Chicago, IL" covers
+    - Notice the survey (ACS 2017)
+    - Basic geographic datapoints (area, density)
+    - Quick links to other things that contain "Chicago", like the United States, or `Chicago-Naperville area <https://censusreporter.org/profiles/31000US16980-chicago-naperville-elgin-il-in-wi-metro-area/>`_
+
+
+.. figure:: images/censusreporter-chicago-topmap.png
+    :alt: censusreporter-chicago-topmap.png
+
+
+
+
+CensusReporter demographics for Chicago
+=======================================
+
+
+.. figure:: images/censusreporter-chicago-demographics.png
+    :alt: censusreporter-chicago-demographics.png
+
+
+Highly-prioritized subsections: Age, Sex, Race & Ethnicity
+
+.. ifnotslides::
+
+    We'll see that one of the patterns/features/limitations of Census Reporter is that it tries to show data for Census boundaries from small to big, e.g. Census block to the national level, which means the data points have to exist at all of those different, widely varying geographic categories.
+
+    Of those general data points, apparently age, sex, and race and ethnicity were demeed as the most generally interesting/important.
+
+
+CensusReporter details in the hover-action
+------------------------------------------
+"Interact with charts and statistics for margins of error and additional information."
+
+
+.. figure:: images/censusreporter-chicago-demographics-hover-blackbar.png
+    :alt: censusreporter-chicago-demographics-hover-blackbar.png
+
+
+.. ifnotslides::
+
+    Hovering over the "Black" data bar under **Race & Ethnicity** shows the comparison to 2 Census demographic categories that contain Chicago: metro area and the state of Illinois
+
+
+
+When CensusReporter shows the data (Table B01001)
+-------------------------------------------------
+
+Clicking "Show data" under the **Population by age range** graphic:
+
+.. figure:: images/censusreporter-chicago-show-table-pop.png
+    :alt: censusreporter-chicago-show-table-pop.png
+
+
+.. ifnotslides::
+
+    Note how it shows the data for the hover-on comparisons (metro area, state of Illinois)
+
+    Note how it mentions the table name, **Table B01001**
+
+
+View Table B01001 on CensusReporter
+-----------------------------------
+
+`Clicking "View table" _https://censusreporter.org/data/table/?table=B01001&primary_geo_id=16000US1714000&geo_ids=16000US1714000,05000US17031,31000US16980,04000US17,01000US`_
+
+
+.. figure:: images/censusreporter-chicago-view-table-sex-by-age-b01001.png
+    :alt: censusreporter-chicago-view-table-sex-by-age-b01001.png
+
+.. ifnotslides::
+
+    Note the:
+
+    - Table name (Sex by Age) and code (B01001)
+    - Table source/survey: ACS 2017 1-year
+    - Selected geographies, and ability to remove/add them
+    - Switch to totals
+
+
+Download Table B01001 as CSV from CensusReporter
+------------------------------------------------
+
+Clicking the "Download data" as CSV link (`Google Sheets mirror <https://docs.google.com/spreadsheets/d/15rpmHUTtOY0K0F1E1ICx1zsGOgHkWkEBOnknhhTOefI/edit#gid=0>`_)
+
+
+.. figure:: images/censusreporter-chicago-download-table-as-csv-b01001-gsheet.png
+
+
+.. ifnotslides::
+
+    Notice how wide the data is, and how the headers lack human readability.
+
+    Notice that the "raw data" doesn't include percentages, but the estimates -- the percentages are derived
+
+
+Table B01001's metadata from CensusReporter
+-------------------------------------------
+
+B01001's metadata (labeling) as JSON
+
+
+.. figure:: images/censusreporter-chicago-download-table-as-csv-b01001-metadata.png
+
+
+
+.. ifnotslides::
+
+    For the table labels, like how code ``B01001005`` corresponds to the population for males, 10 to 14 years of age, we have to go to the `metadata.json file <https://docs.google.com/spreadsheets/d/15rpmHUTtOY0K0F1E1ICx1zsGOgHkWkEBOnknhhTOefI/edit#gid=856523278>`_, which underscores how even labeling this data is a complicated task.
+
+

@@ -17,7 +17,8 @@ help:
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile
 
-
+	rm -f "$(BUILDDIR)/$@/.buildinfo"
+	rm -rf "$(BUILDDIR)/$@/*"
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 
