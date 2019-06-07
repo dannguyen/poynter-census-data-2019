@@ -14,8 +14,11 @@ To get to this page via short URL, use: [bit.ly/cdata2019](https://bit.ly/cdata2
 ## Starters
 
 - Should probably sign up for a Google Account (to use Google Sheets) if you don't have one by now
-- Visit [https://censusreporter.org](https://censusreporter.org) and fill out this little anonymous data collection form (to be analyzed as an example in class): [http://bit.ly/zipgform](http://bit.ly/zipgform)
+- Visit [https://censusreporter.org](https://censusreporter.org) and fill out this little anonymous data collection form (to be analyzed as an example in class): [bit.ly/zipgform](https://bit.ly/zipgform)
 - [Optional] Sign-up for a free [datawrapper.de account](https://www.datawrapper.de/) to make visualizations
+
+
+#### Please fill out the form at [bit.ly/zipgform](https://bit.ly/zipgform)
 
 
 ## Exploring CensusReporter 
