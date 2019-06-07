@@ -67,7 +67,9 @@ http://bit.ly/warmzipcode
 
 ------------------------
 
-## Cleaned Census Data warmup
+## Cleaned-up Census Data warmup http://bit.ly/blueredhello
+
+The hardest part of data work is the data-wrangling (aka data cleaning). Rather than jump into the confusing mess that the Census data can often be, we start with a simplified, cleaned-up version of the original data, as to be familiar with the principles of tidy data:
 
 The spreadsheet at [http://bit.ly/blueredhello](http://bit.ly/blueredhello) contains cleaned up **state-level data** from two sources: 
 
